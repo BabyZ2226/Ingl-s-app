@@ -1,0 +1,8 @@
+{
+  "name": "LingoSphere AI",
+  "description": "A comprehensive AI-powered platform for learning and practicing English with interactive activities, chat, writing analysis, and customizable exams.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
